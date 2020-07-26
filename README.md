@@ -5,7 +5,9 @@ Space Experience gives you the real-time experience of our Galaxy, The Milky Way
 ## Group: OneCanvas
 1 Member
 
-The project is developed entirely by me.
+The project is developed entirely by me:
+
+Hassaan Qureshi (1906852)
 
 ## Link to project
 Use this [link](https://sapienzainteractivegraphicscourse.github.io/final-project-onecanvas/) to check out the project.
