@@ -11,5 +11,8 @@ The project is developed entirely by me:
 
 Hassaan Qureshi (1906852)
 
+## Navigation
+User Mouse or Trackpad to change camera views; Left mouse drag - Rotate camera, Right mouse drag - Reposition camera, Mouse scroll - zoom in/out.
+
 ## Link to project
 Use this [link](https://sapienzainteractivegraphicscourse.github.io/final-project-onecanvas/) to check out the project.
