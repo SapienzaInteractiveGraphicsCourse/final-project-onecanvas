@@ -46,7 +46,7 @@ footer{
 
 
 .lds-dual-ring {
-    display: inline-block;
+    display: block;
     width: 80px;
     height: 80px;
     position: relative;
