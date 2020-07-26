@@ -2,6 +2,8 @@
 
 Space Experience gives you the real-time experience of our Galaxy, The Milky Way. Original sounds captured by NASA over the years have been added to these planets i.e. while visiting a planet, you can hear how it actually sounds in space.
 
+Loading the project may take some time, kindly be patient. :)
+
 ## Group: OneCanvas
 1 Member
 
