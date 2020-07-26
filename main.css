@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body{
+    margin: 0;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif !important;
+
+}
+
+canvas{
+    display: block;
+}
+a {
+    color: #0080ff;
+}
+
+b {
+    color: orange
+}
+
+#info{
+    position: absolute;
+    color: white;
+}
+
+#title{
+    margin-bottom: 5px;
+}
+
+footer{
+    position: absolute;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
