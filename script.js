@@ -1,4 +1,7 @@
-
+var ringDisplay = document.querySelector('.loaderClass');
+window.addEventListener('load', (event) => {
+    ringDisplay.style.display = 'none';
+});
 
 var scene;
 var cameraTrackball;
